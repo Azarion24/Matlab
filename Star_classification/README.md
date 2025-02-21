@@ -6,7 +6,6 @@ This project focuses on classifying stars based on features such as temperature,
 
 - `star_classification.csv` - Dataset containing information about stars (features like temperature, luminosity, radius, absolute magnitude, spectral class, and star color).
 - `star_classification.m` - MATLAB script that performs data loading, feature preparation, model training, and performance evaluation.
-- `README.md` - Project documentation.
 
 ## Code Description
 
