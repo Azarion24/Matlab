@@ -1,5 +1,5 @@
 # Star Classification Project
-vf
+
 This project focuses on classifying stars based on features such as temperature, luminosity, radius, absolute magnitude, spectral class, and star color. The goal is to create and compare different classification models, including Neural Networks, Random Forest, SVM, and KNN, to predict the star type based on the given features.
 
 ## Contents
